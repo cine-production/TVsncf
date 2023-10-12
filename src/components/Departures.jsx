@@ -87,7 +87,14 @@ function Departures() {
             {calculateDelay(
               departure.baseDepartureTime,
               departure.realDepartureTime,
-            )}
+            )
+              .toLowerCase()
+              .includes('supprimer')
+              ? 'Supprimer'
+              : calculateDelay(
+                  departure.baseDepartureTime,
+                  departure.realDepartureTime,
+                )}
           </p>
           <p className="departure__destination">{departure.destination}</p>
           <Stops idDeparture={departure.id} />

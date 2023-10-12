@@ -1,43 +1,244 @@
 {
-  "bordeaux": {
-    "Bordeaux Saint-Jean": "stop_area:SNCF:87581009"
+  "Cerbère": {
+    "Gare de Cerbère": "stop_area:SNCF:87785006"
   },
-  "brest": {
-    "Gare de Brest": "stop_area:SNCF:87474007"
+  "Cabanasse": {
+    "Bolquère - Eyne": "stop_area:SNCF:87784801",
+    "Mont-Louis - La Cabanasse": "stop_area:SNCF:87784793"
   },
-  "lille": {
-    "Lille Flandres": "stop_area:SNCF:87286005",
-    "Lille Europe": "stop_area:SNCF:87223263"
+  "Sauto": {
+    "Gare de Sauto": "stop_area:SNCF:87784777"
   },
-  "lyon": {
-    "Lyon Part Dieu": "stop_area:SNCF:87723197",
-    "Lyon Perrache": "stop_area:SNCF:87722025"
+  "Soler": {
+    "Gare Le Soler": "stop_area:SNCF:87784512"
   },
-  "marseille": {
-    "Marseille Saint-Charles": "stop_area:SNCF:87751008"
+  "Port-Vendres": {
+    "Gare de Port-Vendres": "stop_area:SNCF:87784264"
   },
-  "nantes": {
-    "Gare de Nantes": "stop_area:SNCF:87481002"
+  "Elne": {
+    "Gare de Elne": "stop_area:SNCF:87784207"
   },
-  "paris": {
-    "Gare de Lyon": "stop_area:SNCF:87686006",
-    "Gare Montparnasse": "stop_area:SNCF:87391003",
-    "Gare de L'Est": "stop_area:SNCF:87113001",
-    "Gare du Nord": "stop_area:SNCF:87271007"
+  "Salses-le-Château": {
+    "Gare de Salses-le-Château": "stop_area:SNCF:87784157"
   },
-  "strasbourg": {
-    "Gare de Strasbourg": "stop_area:SNCF:87212027"
+  "Barjac": {
+    "Gare de Barjac": "stop_area:SNCF:87783563"
   },
-  "Dorlisheim": {
-    "Gare de Dorlisheim": "stop_area:SNCF:87214338"
+  "Bourgs sur Colagne": {
+    "Gare Le Monastier-Pin-Moriès": "stop_area:SNCF:87783308"
   },
-  "Molsheim": {
-    "Gare de Molsheim": "stop_area:SNCF:87214577"
+  "Saint-Flour": {
+    "Saint-Flour - Chaudes-Aigues": "stop_area:SNCF:87783175"
   },
-  "Molsheime": {
-    "Gare de Molsheim": "stop_area:SNCF:87214577"
+  "Millau": {
+    "Gare de Millau": "stop_area:SNCF:87783001"
   },
-  "Molsheimz": {
-    "Gare de Molsheim": "stop_area:SNCF:87214577"
+  "Bousquet-d'Orb": {
+    "Gare Le Bousquet-d'Orb": "stop_area:SNCF:87781583"
+  },
+  "Agde": {
+    "Gare de Agde": "stop_area:SNCF:87781278"
+  },
+  "Coursan": {
+    "Gare de Coursan": "stop_area:SNCF:87781161"
+  },
+  "Narbonne": {
+    "Gare de Narbonne": "stop_area:SNCF:87781104"
+  },
+  "Port-la-Nouvelle": {
+    "Gare de Port-la-Nouvelle": "stop_area:SNCF:87781062"
+  },
+  "Grau-du-Roi": {
+    "Gare Le Grau-du-Roi": "stop_area:SNCF:87775866"
+  },
+  "Saint-Césaire-de-Gauzignan": {
+    "Saint-Ambroix": "stop_area:SNCF:87775536"
+  },
+  "Générac": {
+    "Gammal": "stop_area:SNCF:87775510"
+  },
+  "Chamborigaud": {
+    "Gare de Chamborigaud": "stop_area:SNCF:87775221"
+  },
+  "Gallargues-le-Montueux": {
+    "Gare de Gallargues-le-Montueux": "stop_area:SNCF:87775130"
+  },
+  "Villeneuve-lès-Maguelone": {
+    "Gare de Villeneuve-lès-Maguelone": "stop_area:SNCF:87773515"
+  },
+  "Baillargues": {
+    "Saint-Brès - Mudaison": "stop_area:SNCF:87773440"
+  },
+  "Sète": {
+    "Gare de Sète": "stop_area:SNCF:87773200"
+  },
+  "Entraigues-sur-la-Sorgue": {
+    "Gare de Entraigues-sur-la-Sorgue": "stop_area:SNCF:87765826"
+  },
+  "Morières-lès-Avignon": {
+    "Gare de Morières-lès-Avignon": "stop_area:SNCF:87765420"
+  },
+  "Pierrelatte": {
+    "Gare de Pierrelatte": "stop_area:SNCF:87764308"
+  },
+  "Serres": {
+    "Gare de Serres": "stop_area:SNCF:87763722"
+  },
+  "Colombier-Saugnieu": {
+    "Lyon Saint-Exupéry TGV": "stop_area:SNCF:87762906"
+  },
+  "Die": {
+    "Gare de Die": "stop_area:SNCF:87761841"
+  },
+  "Tullins": {
+    "Tullins Fures": "stop_area:SNCF:87761759"
+  },
+  "Loriol-sur-Drôme": {
+    "Gare de Loriol-sur-Drôme": "stop_area:SNCF:87761262"
+  },
+  "Saint-Rambert-d'Albon": {
+    "Gare de Saint-Rambert-d'Albon": "stop_area:SNCF:87761106"
+  },
+  "Marseille": {
+    "Picon Busserine": "stop_area:SNCF:87759290",
+    "Niolon": "stop_area:SNCF:87753582",
+    "La Pomme": "stop_area:SNCF:87751719"
+  },
+  "Grasse": {
+    "Gare de Grasse": "stop_area:SNCF:87757724"
+  },
+  "Saint-Raphaël": {
+    "Agay": "stop_area:SNCF:87757559",
+    "Boulouris sur Mer": "stop_area:SNCF:87757534"
+  },
+  "Fontan": {
+    "Fontan - Saorge": "stop_area:SNCF:87756858"
+  },
+  "Sospel": {
+    "Gare de Sospel": "stop_area:SNCF:87756825"
+  },
+  "Peillon": {
+    "Peillon Sainte-Thècle": "stop_area:SNCF:87756783"
+  },
+  "Trinité": {
+    "Drap - Cantaron": "stop_area:SNCF:87756775"
+  },
+  "Menton": {
+    "Gare de Menton": "stop_area:SNCF:87756486"
+  },
+  "Roquebrune-Cap-Martin": {
+    "Carnoles": "stop_area:SNCF:87756478"
+  },
+  "Beaulieu-sur-Mer": {
+    "Gare de Beaulieu-sur-Mer": "stop_area:SNCF:87756379"
+  },
+  "Hippodrome-de-la-côte-d'azur": {
+    "Hippodrome-de-la-côte-d'azur": "stop_area:SNCF:87756312"
+  },
+  "Nice": {
+    "Nice Saint-Augustin": "stop_area:SNCF:87756254"
+  },
+  "Vidauban": {
+    "Gare de Vidauban": "stop_area:SNCF:87755421"
+  },
+  "Ollioules": {
+    "Ollioules - Sanary-sur-Mer": "stop_area:SNCF:87755231"
+  },
+  "Saint-Cyr-sur-Mer": {
+    "Saint-Cyr Les Lecques - La Cadière": "stop_area:SNCF:87755215"
+  },
+  "Lamanon": {
+    "Gare de Lamanon": "stop_area:SNCF:87753731"
+  },
+  "Martigues": {
+    "Gare de Martigues": "stop_area:SNCF:87753509"
+  },
+  "Septèmes-les-Vallons": {
+    "Gare de Septèmes-les-Vallons": "stop_area:SNCF:87751800"
+  },
+  "Gardanne": {
+    "Gare de Gardanne": "stop_area:SNCF:87751420"
+  },
+  "Pertuis": {
+    "Gare de Pertuis": "stop_area:SNCF:87751362"
+  },
+  "Manosque": {
+    "Manosque - Gréoux-les-Bains": "stop_area:SNCF:87751321"
+  },
+  "Jarrie": {
+    "Jarrie - Vizille": "stop_area:SNCF:87747535"
+  },
+  "Goncelin": {
+    "Gare de Goncelin": "stop_area:SNCF:87747477"
+  },
+  "Voiron": {
+    "Gare de Voiron": "stop_area:SNCF:87747287"
+  },
+  "Rives": {
+    "Gare de Rives": "stop_area:SNCF:87747246"
+  },
+  "Grenoble": {
+    "Gare de Grenoble": "stop_area:SNCF:87747006"
+  },
+  "Vallorcine": {
+    "Gare de Vallorcine": "stop_area:SNCF:87746875"
+  },
+  "Chamonix-Mont-Blanc": {
+    "Les Tines": "stop_area:SNCF:87746834",
+    "Chamonix-Mont-Blanc": "stop_area:SNCF:87746784"
+  },
+  "Houches": {
+    "Gare Les Houches": "stop_area:SNCF:87746743"
+  },
+  "Reignier-Ésery": {
+    "Reignier-Ésery": "stop_area:SNCF:87746511"
+  },
+  "Saint-Gervais-les-Bains": {
+    "Saint-Gervais-les-Bains Le Fayet": "stop_area:SNCF:87746479"
+  },
+  "Groisy": {
+    "Groisy - Thorens-Glières": "stop_area:SNCF:87746248"
+  },
+  "Corbonod": {
+    "Seyssel - Corbonod": "stop_area:SNCF:87745828"
+  },
+  "Pougny": {
+    "Pougny - Chancy": "stop_area:SNCF:87745380"
+  },
+  "Argis": {
+    "Tenay - Hauteville": "stop_area:SNCF:87743757"
+  },
+  "Chassal-Molinges": {
+    "Molinges": "stop_area:SNCF:87743591"
+  },
+  "Oyonnax": {
+    "Gare de Oyonnax": "stop_area:SNCF:87743534"
+  },
+  "Nurieux-Volognat": {
+    "Gare de Nurieux-Volognat": "stop_area:SNCF:87743351"
+  },
+  "Villereversure": {
+    "Gare de Villereversure": "stop_area:SNCF:87743328"
+  },
+  "Pont-d'Ain": {
+    "Gare de Pont-d'Ain": "stop_area:SNCF:87743120"
+  },
+  "Saint-Martin-du-Mont": {
+    "Gare de Saint-Martin-du-Mont": "stop_area:SNCF:87743112"
+  },
+  "Ambilly": {
+    "Gare de Ambilly": "stop_area:SNCF:87742031"
+  },
+  "Landry": {
+    "Gare de Landry": "stop_area:SNCF:87741777"
+  },
+  "Léchère": {
+    "Notre-Dame de Briançon": "stop_area:SNCF:87741694"
+  },
+  "Saint-Béron": {
+    "Saint-Béron - La Bridoire": "stop_area:SNCF:87741454"
+  },
+  "Lépin-le-Lac": {
+    "Lépin-le-Lac - La Bauche": "stop_area:SNCF:87741439"
   }
 }

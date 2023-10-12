@@ -2,11 +2,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  max-height: 100vh;
+  margin-top: 3rem;
 
   &__content-wrapper {
     width: 80%;
     background-color: #8DE8FE;
     border-radius: 10px;
+    margin-top: 6%;
   }
 }
