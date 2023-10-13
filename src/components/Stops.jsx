@@ -1,6 +1,6 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
-import propTypes from 'prop-types'
+import propsTypes from 'prop-types'
 
 function Stops({ idDeparture }) {
   const [nextStops, setNextStops] = useState([])
@@ -45,8 +45,8 @@ function Stops({ idDeparture }) {
   )
 }
 
-Stops.propTypes = {
-  idDeparture: propTypes.string.isRequired,
+Stops.propsTypes = {
+  idDeparture: propsTypes.string.isRequired,
 }
 
 export default Stops
