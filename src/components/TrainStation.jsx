@@ -1,9 +1,10 @@
 import React, { useState } from 'react'
-import Arrivals from './Arrivals'
 import Departures from './Departures'
+import Arrivals from './Arrivals'
 
 function TrainStation() {
   const [departureMode, setDepartureMode] = useState(true)
+  const [arrivalsMode, setArrivalsMode] = useState(false)
   return (
     <div className="train-station">
       <div className="directions">
@@ -12,23 +13,27 @@ function TrainStation() {
           className={`directions__departures ${
             departureMode ? 'directions__departures--active' : ''
           }`}
-          onClick={() => setDepartureMode(true)}
+          onClick={() => {
+            setArrivalsMode(true)
+          }}
         >
           Départs
         </button>
         <button
           type="button"
           className={`directions__arrivals ${
-            departureMode ? '' : 'directions__arrivals--active'
+            arrivalsMode ? 'directions__arrivals--active' : ''
           }`}
-          onClick={() => setDepartureMode(false)}
+          onClick={() => {
+            setDepartureMode(false)
+          }}
         >
           Arrivées
         </button>
       </div>
 
       {departureMode && <Departures />}
-      {!departureMode && <Arrivals />}
+      {arrivalsMode && <Arrivals />}
     </div>
   )
 }
